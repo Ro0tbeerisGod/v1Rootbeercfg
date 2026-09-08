@@ -6,9 +6,9 @@
         16537337310,
         16537449730
       ],
-      "mode": "local",
+      "mode": "cdn",
       "enabled": true,
-      "local_path": "F:\\\u65b0\u3057\u3044\u30d5\u30a9\u30eb\u30c0\u30fc (3)\\\u3053\u308c\u304c\u4e00\u756a\u304b\u307f\u304a\u30fc\u30f4\u3041\u30fc\u3046\u3092\u3063\u3061\u3061\u30fc\u305a\u30d8\u30c3\u30c9sound.wav"
+      "cdn_url": "https://raw.githubusercontent.com/Ro0tbeerisGod/v2Rootbeercfg/refs/heads/main/%E3%81%93%E3%82%8C%E3%81%8C%E4%B8%80%E7%95%AA%E3%81%8B%E3%81%BF%E3%81%8A%E3%83%BC%E3%83%B4%E3%81%81%E3%83%BC%E3%81%86%E3%82%92%E3%81%A3%E3%81%A1%E3%81%A1%E3%83%BC%E3%81%9A%E3%83%98%E3%83%83%E3%83%89sound.wav"
     },
     {
       "name": "Killsound",
@@ -17,9 +17,9 @@
         16530229616,
         16530229541
       ],
-      "mode": "local",
+      "mode": "cdn",
       "enabled": true,
-      "local_path": "F:\\\u65b0\u3057\u3044\u30d5\u30a9\u30eb\u30c0\u30fc (3)\\download (2).mp3"
+      "cdn_url": "https://raw.githubusercontent.com/Ro0tbeerisGod/v2Rootbeercfg/refs/heads/main/download%20%282%29.mp3"
     },
     {
       "name": "wall",
@@ -127,9 +127,9 @@
         84214501374682,
         92138082970751
       ],
-      "mode": "local",
+      "mode": "cdn",
       "enabled": true,
-      "local_path": "F:\\\u65b0\u3057\u3044\u30d5\u30a9\u30eb\u30c0\u30fc (3)\\file_00000000b40c82308642a9e6371b285d.png"
+      "cdn_url": "https://raw.githubusercontent.com/Ro0tbeerisGod/v2Rootbeercfg/refs/heads/main/file_00000000b40c82308642a9e6371b285d.png"
     },
     {
       "name": "character-appear",
@@ -137,27 +137,27 @@
         133917828562858,
         121503061771505
       ],
-      "mode": "local",
+      "mode": "cdn",
       "enabled": true,
-      "local_path": "F:\\\u65b0\u3057\u3044\u30d5\u30a9\u30eb\u30c0\u30fc (3)\\channels4_profile.jpg"
+      "cdn_url": "https://raw.githubusercontent.com/Ro0tbeerisGod/v2Rootbeercfg/refs/heads/main/channels4_profile.jpg"
     },
     {
       "name": "N",
       "replace_ids": [
         13854780213
       ],
-      "mode": "local",
+      "mode": "cdn",
       "enabled": true,
-      "local_path": "F:\\\u65b0\u3057\u3044\u30d5\u30a9\u30eb\u30c0\u30fc (3)\\file_00000000b40c82308642a9e6371b285d.png"
+      "cdn_url": "https://raw.githubusercontent.com/Ro0tbeerisGod/v2Rootbeercfg/refs/heads/main/file_00000000b40c82308642a9e6371b285d.png"
     },
     {
       "name": "G",
       "replace_ids": [
         13854780042
       ],
-      "mode": "local",
+      "mode": "cdn",
       "enabled": true,
-      "local_path": "F:\\\u65b0\u3057\u3044\u30d5\u30a9\u30eb\u30c0\u30fc (3)\\file_00000000d6cc720bbf8501ff5d5dae87.png"
+      "cdn_url": "https://raw.githubusercontent.com/Ro0tbeerisGod/v2Rootbeercfg/refs/heads/main/file_00000000d6cc720bbf8501ff5d5dae87.png"
     },
     {
       "name": "Intro",
@@ -165,27 +165,27 @@
         16810041280,
         6384899588
       ],
-      "mode": "local",
+      "mode": "cdn",
       "enabled": true,
-      "local_path": "F:\\FUNK EDIT\\0907.MP3"
+      "cdn_url": "https://raw.githubusercontent.com/Ro0tbeerisGod/v2Rootbeercfg/refs/heads/main/0907.MP3"
     },
     {
       "name": "Roundwin",
       "replace_ids": [
         16810041280
       ],
-      "mode": "local",
+      "mode": "cdn",
       "enabled": true,
-      "local_path": "F:\\\u65b0\u3057\u3044\u30d5\u30a9\u30eb\u30c0\u30fc (3)\\Apex Legends Sound Pack (Hitsounds and Killsounds) - Cluster (mp3cut.net).mp3"
+      "cdn_url": "https://raw.githubusercontent.com/Ro0tbeerisGod/v2Rootbeercfg/refs/heads/main/Apex%20Legends%20Sound%20Pack%20%28Hitsounds%20and%20Killsounds%29%20-%20Cluster%20%28mp3cut.net%29.mp3"
     },
     {
       "name": "Winsound",
       "replace_ids": [
         18239670056
       ],
-      "mode": "local",
+      "mode": "cdn",
       "enabled": true,
-      "local_path": "F:\\\u65b0\u3057\u3044\u30d5\u30a9\u30eb\u30c0\u30fc (3)\\Victory & Lobby Redux - Stephen Barton (mp3cut.net).mp3"
+      "cdn_url": "https://raw.githubusercontent.com/Ro0tbeerisGod/v2Rootbeercfg/refs/heads/main/Victory%20%26%20Lobby%20Redux%20-%20Stephen%20Barton%20%28mp3cut.net%29.mp3"
     },
     {
       "name": "Lobbysound",
@@ -202,18 +202,18 @@
         91718252417630,
         119694504935889
       ],
-      "mode": "local",
+      "mode": "cdn",
       "enabled": true,
-      "local_path": "F:\\\u65b0\u3057\u3044\u30d5\u30a9\u30eb\u30c0\u30fc (3)\\Apex Legends - Evolution Drop Music_Theme (Evolution Collection Event Login Reward) - B R E A T H E_adjusted.mp3"
+      "cdn_url": "https://raw.githubusercontent.com/Ro0tbeerisGod/v2Rootbeercfg/refs/heads/main/Apex%20Legends%20-%20Evolution%20Drop%20Music_Theme%20%28Evolution%20Collection%20Event%20Login%20Reward%29%20-%20B%20R%20E%20A%20T%20H%20E_adjusted.mp3"
     },
     {
       "name": "mapchoose",
       "replace_ids": [
         103035811146294
       ],
-      "mode": "local",
+      "mode": "cdn",
       "enabled": true,
-      "local_path": "F:\\\u65b0\u3057\u3044\u30d5\u30a9\u30eb\u30c0\u30fc (3)\\bandicut-8.64-11.16.mp3"
+      "cdn_url": "https://raw.githubusercontent.com/Ro0tbeerisGod/v2Rootbeercfg/refs/heads/main/bandicut-8.64-11.16.mp3"
     },
     {
       "name": "dafont???",
